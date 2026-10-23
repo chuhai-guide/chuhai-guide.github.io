@@ -187,5 +187,113 @@
     "category": "平台访问",
     "url": "platforms/telegram-web-login.html",
     "keywords": "telegram tg telegram web telegram网页版 验证码 收不到 登录不了 Telegram 网页版登录不上、验证码收不到怎么办？ 区分 Telegram Web 无法打开、登录验证码发送到已登录设备、短信延迟与会话异常，避免误删私密聊天。"
+  },
+  {
+    "slug": "spotify-web-player-not-working",
+    "title": "Spotify 网页播放器打不开或无法播放怎么办？",
+    "description": "Spotify 网页播放器空白、歌曲无法播放或只有一个浏览器异常时，先核对浏览器支持、网页权限和播放设备。",
+    "symptom": "Spotify",
+    "category": "平台访问",
+    "url": "platforms/spotify-web-player-not-working.html",
+    "keywords": "spotify 网页播放器打不开或无法播放怎么办？ spotify 网页播放器空白、歌曲无法播放或只有一个浏览器异常时，先核对浏览器支持、网页权限和播放设备。 spotify"
+  },
+  {
+    "slug": "zoom-meeting-connection-error",
+    "title": "Zoom 会议加入失败、错误 1020 或 103033 怎么办？",
+    "description": "区分 Zoom 网页被防火墙拦截、进入会议时断线、客户端连接故障，并按错误 1020 和 103033 提示排查。",
+    "symptom": "Zoom",
+    "category": "平台访问",
+    "url": "platforms/zoom-meeting-connection-error.html",
+    "keywords": "zoom 会议加入失败、错误 1020 或 103033 怎么办？ 区分 zoom 网页被防火墙拦截、进入会议时断线、客户端连接故障，并按错误 1020 和 103033 提示排查。 zoom"
+  },
+  {
+    "slug": "steam-download-stuck",
+    "title": "Steam 下载速度很慢、下载卡住或更新不动怎么办？",
+    "description": "Steam 游戏下载卡住、更新排队或速度忽高忽低时，检查下载队列、限速设置、磁盘写入与内容服务器，而不是只看网络测速。",
+    "symptom": "Steam",
+    "category": "平台访问",
+    "url": "platforms/steam-download-stuck.html",
+    "keywords": "steam 下载速度很慢、下载卡住或更新不动怎么办？ steam 游戏下载卡住、更新排队或速度忽高忽低时，检查下载队列、限速设置、磁盘写入与内容服务器，而不是只看网络测速。 steam"
+  },
+  {
+    "slug": "github-two-factor-login",
+    "title": "GitHub 双重验证无法登录、验证码不通过怎么办？",
+    "description": "GitHub 登录卡在双重身份验证时，先确认验证码时间、已登录设备和恢复码，不要盲目重置账号。",
+    "symptom": "GitHub",
+    "category": "平台访问",
+    "url": "platforms/github-two-factor-login.html",
+    "keywords": "github 双重验证无法登录、验证码不通过怎么办？ github 登录卡在双重身份验证时，先确认验证码时间、已登录设备和恢复码，不要盲目重置账号。 github"
+  },
+  {
+    "slug": "reddit-login-trouble",
+    "title": "Reddit 登录失败、密码重置邮件收不到怎么办？",
+    "description": "Reddit 登录失败时区分 Google 或 Apple 登录、用户名密码错误、密码重置邮件与双重验证问题。",
+    "symptom": "Reddit",
+    "category": "平台访问",
+    "url": "platforms/reddit-login-trouble.html",
+    "keywords": "reddit 登录失败、密码重置邮件收不到怎么办？ reddit 登录失败时区分 google 或 apple 登录、用户名密码错误、密码重置邮件与双重验证问题。 reddit"
+  },
+  {
+    "slug": "google-drive-files-not-loading",
+    "title": "Google Drive 文件打不开、上传卡住怎么办？",
+    "description": "Google Drive 文件无法预览、上传停住或出现临时错误时，分别检查权限、浏览器、网络连接和服务状态。",
+    "symptom": "Google Drive",
+    "category": "平台访问",
+    "url": "platforms/google-drive-files-not-loading.html",
+    "keywords": "google drive 文件打不开、上传卡住怎么办？ google drive 文件无法预览、上传停住或出现临时错误时，分别检查权限、浏览器、网络连接和服务状态。 google drive"
+  },
+  {
+    "slug": "microsoft-teams-cannot-join",
+    "title": "Microsoft Teams 无法加入会议、一直在大厅等待怎么办？",
+    "description": "区分 Teams 会议大厅等待、登录要求、组织策略与网络连接失败，按实际提示处理。",
+    "symptom": "Microsoft Teams",
+    "category": "平台访问",
+    "url": "platforms/microsoft-teams-cannot-join.html",
+    "keywords": "microsoft teams 无法加入会议、一直在大厅等待怎么办？ 区分 teams 会议大厅等待、登录要求、组织策略与网络连接失败，按实际提示处理。 microsoft teams"
+  },
+  {
+    "slug": "twitch-error-2000",
+    "title": "Twitch 直播无法播放、提示 Error 2000 怎么办？",
+    "description": "Twitch 直播黑屏、缓冲或出现 Error 2000 时，区分网络稳定性、浏览器扩展与单个直播限制。",
+    "symptom": "Twitch",
+    "category": "平台访问",
+    "url": "platforms/twitch-error-2000.html",
+    "keywords": "twitch 直播无法播放、提示 error 2000 怎么办？ twitch 直播黑屏、缓冲或出现 error 2000 时，区分网络稳定性、浏览器扩展与单个直播限制。 twitch"
+  },
+  {
+    "slug": "canva-editor-white-screen",
+    "title": "Canva 编辑器白屏、卡住或无法保存怎么办？",
+    "description": "Canva 打开设计后白屏、编辑器冻结或显示离线重连时，区分浏览器兼容、脚本、连接与保存状态。",
+    "symptom": "Canva",
+    "category": "平台访问",
+    "url": "platforms/canva-editor-white-screen.html",
+    "keywords": "canva 编辑器白屏、卡住或无法保存怎么办？ canva 打开设计后白屏、编辑器冻结或显示离线重连时，区分浏览器兼容、脚本、连接与保存状态。 canva"
+  },
+  {
+    "slug": "notion-offline-sync",
+    "title": "Notion 显示离线、页面无法同步怎么办？",
+    "description": "Notion 显示 Offline 或 Connect to the internet、页面同步异常时，区分网络拦截、服务状态与离线页面限制。",
+    "symptom": "Notion",
+    "category": "平台访问",
+    "url": "platforms/notion-offline-sync.html",
+    "keywords": "notion notion 显示离线、页面无法同步怎么办？ notion 显示 offline 或 connect to the internet、页面同步异常时，区分网络拦截、服务状态与离线页面限制。"
+  },
+  {
+    "slug": "dropbox-upload-stuck",
+    "title": "Dropbox 上传卡住、网页加载不完整怎么办？",
+    "description": "Dropbox 网页上传停滞、文件未同步或文件列表加载异常时，区分浏览器兼容、空间、网络与客户端状态。",
+    "symptom": "Dropbox",
+    "category": "平台访问",
+    "url": "platforms/dropbox-upload-stuck.html",
+    "keywords": "dropbox dropbox 上传卡住、网页加载不完整怎么办？ dropbox 网页上传停滞、文件未同步或文件列表加载异常时，区分浏览器兼容、空间、网络与客户端状态。"
+  },
+  {
+    "slug": "epic-games-launcher-login",
+    "title": "Epic Games Launcher 登录失败、一直连接中怎么办？",
+    "description": "Epic Games 启动器无法登录、登录循环或连接服务失败时，区分账号会话、启动器缓存和网络连接问题。",
+    "symptom": "Epic Games",
+    "category": "平台访问",
+    "url": "platforms/epic-games-launcher-login.html",
+    "keywords": "epic games epic games launcher 登录失败、一直连接中怎么办？ epic games 启动器无法登录、登录循环或连接服务失败时，区分账号会话、启动器缓存和网络连接问题。"
   }
 ]

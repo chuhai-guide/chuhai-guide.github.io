@@ -69,3 +69,6 @@ a.ad-banner img{display:block;width:100%;height:auto;object-fit:contain;border-r
 a.ad-banner .ad-banner-label{position:absolute;z-index:1;top:5px;left:6px;padding:4px 7px;line-height:1;font-size:11px;font-weight:700;color:#fff;background:#111d33e8;border:1px solid #b8cee6;border-radius:5px}
 a.ad-banner:hover{box-shadow:0 9px 25px #184db02c;border-color:#6f9fe1}
 @media(max-width:560px){a.ad-banner{margin:15px 0 22px}a.ad-banner .ad-banner-label{top:2px;left:3px;padding:2px 4px;font-size:9px}}
+
+/* Further reading and friendly external resources */
+.footinner{flex-wrap:wrap;row-gap:12px}.friend-links{display:flex;flex-basis:100%;flex-wrap:wrap;align-items:center;gap:9px 20px;padding-top:12px;border-top:1px solid #d6e2ee;font-size:12px}.friend-label{font-weight:700;color:#50647e}.friend-links a{color:#435f81;text-decoration:none;overflow-wrap:anywhere}.friend-links a:hover,.friend-links a:focus-visible{color:#0868d6;text-decoration:underline}@media(max-width:560px){.friend-links{gap:9px 13px;line-height:1.6}.friend-label{flex-basis:100%}}
