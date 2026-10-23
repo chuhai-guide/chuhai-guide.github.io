@@ -62,3 +62,10 @@ a.ad:hover,a.ad:focus-visible{border-color:#49b4f5;box-shadow:0 9px 24px #0e4b9f
 @media(max-width:380px){.brandtext small{display:none}.ad-highlights{font-size:10px}.ad-dot{padding:0 2px}.ad-side{display:none}}
 /* Keep decorative glow inside the page width. */
 .hero:before{inset:22px 0 auto 55%;height:240px}
+
+/* Full-artwork advertising, without clipping the image or a button. */
+a.ad-banner{position:relative;display:block;min-height:0;padding:0;margin:22px 0 28px;overflow:visible;background:#15101d;border:1px solid #d9e4f1;border-radius:10px;box-shadow:0 5px 19px #0d327a15;line-height:0}
+a.ad-banner img{display:block;width:100%;height:auto;object-fit:contain;border-radius:9px}
+a.ad-banner .ad-banner-label{position:absolute;z-index:1;top:5px;left:6px;padding:4px 7px;line-height:1;font-size:11px;font-weight:700;color:#fff;background:#111d33e8;border:1px solid #b8cee6;border-radius:5px}
+a.ad-banner:hover{box-shadow:0 9px 25px #184db02c;border-color:#6f9fe1}
+@media(max-width:560px){a.ad-banner{margin:15px 0 22px}a.ad-banner .ad-banner-label{top:2px;left:3px;padding:2px 4px;font-size:9px}}

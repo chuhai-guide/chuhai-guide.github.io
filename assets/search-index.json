@@ -151,5 +151,41 @@
     "category": "平台访问",
     "url": "platforms/discord-connecting.html",
     "keywords": "Discord Discord 一直显示 RTC Connecting、语音连接失败怎么办？ 区分 Discord 页面打不开与语音 RTC Connecting、ICE Checking、No Route，按语音网络连接特点排查。 discord dc语音 rtc connecting no route ice checking discord语音进不去"
+  },
+  {
+    "slug": "gemini-errors",
+    "title": "Gemini 显示错误代码 1060、回答失败怎么办？",
+    "description": "区分 Gemini 的 1060 地区可用性提示、回答处理错误、账号权限及浏览器连接异常，按结果排查。",
+    "symptom": "Gemini 错误代码 1060",
+    "category": "平台访问",
+    "url": "platforms/gemini-errors.html",
+    "keywords": "gemini google gemini 谷歌gemini 1060 1099 回答失败 无法使用 Gemini 显示错误代码 1060、回答失败怎么办？ 区分 Gemini 的 1060 地区可用性提示、回答处理错误、账号权限及浏览器连接异常，按结果排查。"
+  },
+  {
+    "slug": "claude-login-issue",
+    "title": "Claude 登录邮件收不到、登录后又退出怎么办？",
+    "description": "针对 Claude 登录链接、Google 登录、邮件未到和浏览器会话异常，区分邮件投递问题与账号访问故障。",
+    "symptom": "Claude 登录邮件未收到",
+    "category": "平台访问",
+    "url": "platforms/claude-login-issue.html",
+    "keywords": "claude claude.ai anthropic 登录链接 邮箱 邮件 收不到 登录不了 Claude 登录邮件收不到、登录后又退出怎么办？ 针对 Claude 登录链接、Google 登录、邮件未到和浏览器会话异常，区分邮件投递问题与账号访问故障。"
+  },
+  {
+    "slug": "x-website-not-loading",
+    "title": "X（Twitter）网页版打不开、时间线加载失败怎么办？",
+    "description": "排查 x.com 页面无法打开、时间线不更新、只在某一浏览器失败等现象，区分浏览器数据与网络连接问题。",
+    "symptom": "X 网页版加载失败",
+    "category": "平台访问",
+    "url": "platforms/x-website-not-loading.html",
+    "keywords": "x twitter 推特 x.com 时间线 加载失败 无法打开 X（Twitter）网页版打不开、时间线加载失败怎么办？ 排查 x.com 页面无法打开、时间线不更新、只在某一浏览器失败等现象，区分浏览器数据与网络连接问题。"
+  },
+  {
+    "slug": "telegram-web-login",
+    "title": "Telegram 网页版登录不上、验证码收不到怎么办？",
+    "description": "区分 Telegram Web 无法打开、登录验证码发送到已登录设备、短信延迟与会话异常，避免误删私密聊天。",
+    "symptom": "Telegram 登录验证码",
+    "category": "平台访问",
+    "url": "platforms/telegram-web-login.html",
+    "keywords": "telegram tg telegram web telegram网页版 验证码 收不到 登录不了 Telegram 网页版登录不上、验证码收不到怎么办？ 区分 Telegram Web 无法打开、登录验证码发送到已登录设备、短信延迟与会话异常，避免误删私密聊天。"
   }
 ]
