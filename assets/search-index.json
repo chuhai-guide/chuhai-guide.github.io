@@ -106,5 +106,50 @@
     "category": "网络质量",
     "url": "guide/wifi-not-working-mobile-data-works.html",
     "keywords": "手机网络正常，wi-fi 却打不开网站怎么办 同一网站移动数据可访问、wi-fi 不行时，检查路由器、dns、网络认证和代理。 wi-fi 打不开"
+  },
+  {
+    "slug": "chatgpt-not-working",
+    "title": "ChatGPT 打不开、登录失败或反复验证怎么办？",
+    "description": "区分 ChatGPT 无法连接、登录方式不一致、浏览器验证循环和回答加载故障，再决定下一步。",
+    "symptom": "ChatGPT 打不开",
+    "category": "平台访问",
+    "url": "platforms/chatgpt-not-working.html",
+    "keywords": "ChatGPT ChatGPT 打不开、登录失败或反复验证怎么办？ 区分 ChatGPT 无法连接、登录方式不一致、浏览器验证循环和回答加载故障，再决定下一步。 chatgpt chat gpt openai chatgpt登录不了 chatgpt验证循环 checking your browser chatgpt无法登录"
+  },
+  {
+    "slug": "youtube-video-not-playing",
+    "title": "YouTube 能打开但视频无法播放、一直缓冲怎么办？",
+    "description": "排查 YouTube 视频无法播放、只有播放器黑屏、一直缓冲或提示视频不可用，先区分连接质量与单个视频限制。",
+    "symptom": "YouTube视频播放失败",
+    "category": "平台访问",
+    "url": "platforms/youtube-video-not-playing.html",
+    "keywords": "YouTube YouTube 能打开但视频无法播放、一直缓冲怎么办？ 排查 YouTube 视频无法播放、只有播放器黑屏、一直缓冲或提示视频不可用，先区分连接质量与单个视频限制。 youtube 油管 视频一直转圈 youtube黑屏 youtube缓冲 youtube无法播放"
+  },
+  {
+    "slug": "tiktok-not-loading",
+    "title": "TikTok 网页版打不开、视频加载失败怎么办？",
+    "description": "分别检查 TikTok 网页版和手机 App，区分页面空白、视频不加载、登录异常及账号可用性问题。",
+    "symptom": "TikTok加载失败",
+    "category": "平台访问",
+    "url": "platforms/tiktok-not-loading.html",
+    "keywords": "TikTok TikTok 网页版打不开、视频加载失败怎么办？ 分别检查 TikTok 网页版和手机 App，区分页面空白、视频不加载、登录异常及账号可用性问题。 tiktok 抖音国际版 tiktok网页版 tiktok视频不显示 tiktok打不开"
+  },
+  {
+    "slug": "netflix-site-error",
+    "title": "Netflix 提示 Site Error 或网站无法打开怎么办？",
+    "description": "针对 Netflix Site Error 区分浏览器会话、网络连接、设备差异和具体播放错误，避免将账号限制当作 DNS 故障。",
+    "symptom": "Netflix Site Error",
+    "category": "平台访问",
+    "url": "platforms/netflix-site-error.html",
+    "keywords": "Netflix Netflix 提示 Site Error 或网站无法打开怎么办？ 针对 Netflix Site Error 区分浏览器会话、网络连接、设备差异和具体播放错误，避免将账号限制当作 DNS 故障。 netflix 奈飞 netflix site error netflix网页打不开 netflix播放不了"
+  },
+  {
+    "slug": "discord-connecting",
+    "title": "Discord 一直显示 RTC Connecting、语音连接失败怎么办？",
+    "description": "区分 Discord 页面打不开与语音 RTC Connecting、ICE Checking、No Route，按语音网络连接特点排查。",
+    "symptom": "Discord RTC Connecting",
+    "category": "平台访问",
+    "url": "platforms/discord-connecting.html",
+    "keywords": "Discord Discord 一直显示 RTC Connecting、语音连接失败怎么办？ 区分 Discord 页面打不开与语音 RTC Connecting、ICE Checking、No Route，按语音网络连接特点排查。 discord dc语音 rtc connecting no route ice checking discord语音进不去"
   }
 ]

@@ -75,6 +75,11 @@
     'one-website-not-working':['部分网站打不开','只有一个网站打不开','一个网站打不开'],
     'works-in-another-browser':['换个浏览器','一个浏览器打不开','chrome打不开'],
     'overseas-website-slow':['网站很卡','加载慢','访问慢','打开很慢','速度慢'],
+    'chatgpt-not-working':["chatgpt", "chat gpt", "openai", "chatgpt登录不了", "chatgpt验证循环", "checking your browser", "chatgpt无法登录"],
+    'youtube-video-not-playing':["youtube", "油管", "视频一直转圈", "youtube黑屏", "youtube缓冲", "youtube无法播放"],
+    'tiktok-not-loading':["tiktok", "抖音国际版", "tiktok网页版", "tiktok视频不显示", "tiktok打不开"],
+    'netflix-site-error':["netflix", "奈飞", "netflix site error", "netflix网页打不开", "netflix播放不了"],
+    'discord-connecting':["discord", "dc语音", "rtc connecting", "no route", "ice checking", "discord语音进不去"],
     'wifi-not-working-mobile-data-works':['wifi打不开','wifi不能上网','无线网打不开','流量能打开','移动数据正常']
   };
   const normalize=v=>String(v||'').toLowerCase().normalize('NFKC').replace(/[_\-\s\u3000，。、:：?!？!]+/g,'');
