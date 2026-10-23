@@ -95,6 +95,7 @@
       if(title===q)score+=25;
       if(title.includes(q))score+=14;
       if(corpus.includes(q))score+=8;
+      if(words.length>1){if(words.every(word=>corpus.includes(word)))score+=12;else score-=10;}
       for(const word of words){if(corpus.includes(word))score+=3;}
       const alias=normalizedAliases[x.slug];
       if(alias&&alias.some(v=>v===q))score+=22;
