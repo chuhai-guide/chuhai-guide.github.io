@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "website-not-opening",
+    "title": "网站打不开怎么办？先判断是网站、浏览器还是网络",
+    "description": "网站打不开时，按网址、其他网站、浏览器和网络依次排查，避免盲目改设置。",
+    "symptom": "网站打不开",
+    "category": "基础连接",
+    "url": "guide/website-not-opening.html",
+    "keywords": "网站打不开怎么办？先判断是网站、浏览器还是网络 网站打不开时，按网址、其他网站、浏览器和网络依次排查，避免盲目改设置。 网站打不开"
+  },
+  {
+    "slug": "err-connection-timed-out",
+    "title": "ERR_CONNECTION_TIMED_OUT 怎么解决？逐步定位超时原因",
+    "description": "Chrome 出现 ERR_CONNECTION_TIMED_OUT 时，先对比站点、网络与设备，再检查代理、DNS 与防火墙。",
+    "symptom": "ERR_CONNECTION_TIMED_OUT",
+    "category": "浏览器错误",
+    "url": "guide/err-connection-timed-out.html",
+    "keywords": "err_connection_timed_out 怎么解决？逐步定位超时原因 chrome 出现 err_connection_timed_out 时，先对比站点、网络与设备，再检查代理、dns 与防火墙。 err_connection_timed_out"
+  },
+  {
+    "slug": "err-connection-reset",
+    "title": "ERR_CONNECTION_RESET 的原因与解决方法",
+    "description": "ERR_CONNECTION_RESET 表示连接被中断；用浏览器、网络和代理对比缩小范围。",
+    "symptom": "ERR_CONNECTION_RESET",
+    "category": "浏览器错误",
+    "url": "guide/err-connection-reset.html",
+    "keywords": "err_connection_reset 的原因与解决方法 err_connection_reset 表示连接被中断；用浏览器、网络和代理对比缩小范围。 err_connection_reset"
+  },
+  {
+    "slug": "dns-probe-finished-nxdomain",
+    "title": "DNS_PROBE_FINISHED_NXDOMAIN 怎么办？",
+    "description": "解释 NXDOMAIN 的含义，教你检查域名拼写、DNS 缓存和解析记录。",
+    "symptom": "DNS_PROBE_FINISHED_NXDOMAIN",
+    "category": "DNS 与证书",
+    "url": "guide/dns-probe-finished-nxdomain.html",
+    "keywords": "dns_probe_finished_nxdomain 怎么办？ 解释 nxdomain 的含义，教你检查域名拼写、dns 缓存和解析记录。 dns_probe_finished_nxdomain"
+  },
+  {
+    "slug": "connection-not-private",
+    "title": "Chrome 提示“连接不是私密连接”怎么办",
+    "description": "遇到证书警告时先排查系统时间、域名和网络门户，不建议忽略安全风险。",
+    "symptom": "连接不是私密连接",
+    "category": "DNS 与证书",
+    "url": "guide/connection-not-private.html",
+    "keywords": "chrome 提示“连接不是私密连接”怎么办 遇到证书警告时先排查系统时间、域名和网络门户，不建议忽略安全风险。 连接不是私密连接"
+  },
+  {
+    "slug": "page-keeps-loading",
+    "title": "网站一直转圈、加载不出来：怎么判断卡在哪里",
+    "description": "区分整站连接失败与页面脚本、图片、接口加载卡住，提供可执行的对比方法。",
+    "symptom": "网站一直转圈",
+    "category": "页面与登录",
+    "url": "guide/page-keeps-loading.html",
+    "keywords": "网站一直转圈、加载不出来：怎么判断卡在哪里 区分整站连接失败与页面脚本、图片、接口加载卡住，提供可执行的对比方法。 网站一直转圈"
+  },
+  {
+    "slug": "login-redirect-loop",
+    "title": "网站登录后反复跳回登录页面：排查 Cookie 与会话",
+    "description": "登录成功却立刻回到登录页时，优先排查 Cookie、跨站限制和浏览器扩展。",
+    "symptom": "登录循环",
+    "category": "页面与登录",
+    "url": "guide/login-redirect-loop.html",
+    "keywords": "网站登录后反复跳回登录页面：排查 cookie 与会话 登录成功却立刻回到登录页时，优先排查 cookie、跨站限制和浏览器扩展。 登录循环"
+  },
+  {
+    "slug": "captcha-not-loading",
+    "title": "验证码无法加载怎么办？排查脚本、拦截和网络",
+    "description": "验证码空白、不断旋转或点击无反应时，检查脚本拦截、站点数据和网络路径。",
+    "symptom": "验证码无法加载",
+    "category": "页面与登录",
+    "url": "guide/captcha-not-loading.html",
+    "keywords": "验证码无法加载怎么办？排查脚本、拦截和网络 验证码空白、不断旋转或点击无反应时，检查脚本拦截、站点数据和网络路径。 验证码无法加载"
+  },
+  {
+    "slug": "one-website-not-working",
+    "title": "为什么一个网站能打开，另一个打不开？",
+    "description": "通过域名解析、网站服务状态、网络路径和浏览器配置解释“只有某站打不开”。",
+    "symptom": "仅个别网站打不开",
+    "category": "对比排查",
+    "url": "guide/one-website-not-working.html",
+    "keywords": "为什么一个网站能打开，另一个打不开？ 通过域名解析、网站服务状态、网络路径和浏览器配置解释“只有某站打不开”。 仅个别网站打不开"
+  },
+  {
+    "slug": "works-in-another-browser",
+    "title": "换浏览器就正常，是什么原因？",
+    "description": "一个浏览器失败而另一个正常时，优先检查扩展、缓存、站点数据与浏览器设置。",
+    "symptom": "换浏览器正常",
+    "category": "对比排查",
+    "url": "guide/works-in-another-browser.html",
+    "keywords": "换浏览器就正常，是什么原因？ 一个浏览器失败而另一个正常时，优先检查扩展、缓存、站点数据与浏览器设置。 换浏览器正常"
+  },
+  {
+    "slug": "overseas-website-slow",
+    "title": "海外网站加载慢的常见原因，以及如何逐项判断",
+    "description": "海外网页慢可能由延迟、资源大小、链路拥塞或站点服务器造成，先测量再判断。",
+    "symptom": "海外网站加载慢",
+    "category": "网络质量",
+    "url": "guide/overseas-website-slow.html",
+    "keywords": "海外网站加载慢的常见原因，以及如何逐项判断 海外网页慢可能由延迟、资源大小、链路拥塞或站点服务器造成，先测量再判断。 海外网站加载慢"
+  },
+  {
+    "slug": "wifi-not-working-mobile-data-works",
+    "title": "手机网络正常，Wi-Fi 却打不开网站怎么办",
+    "description": "同一网站移动数据可访问、Wi-Fi 不行时，检查路由器、DNS、网络认证和代理。",
+    "symptom": "Wi-Fi 打不开",
+    "category": "网络质量",
+    "url": "guide/wifi-not-working-mobile-data-works.html",
+    "keywords": "手机网络正常，wi-fi 却打不开网站怎么办 同一网站移动数据可访问、wi-fi 不行时，检查路由器、dns、网络认证和代理。 wi-fi 打不开"
+  }
+]

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://chuhai-guide.github.io/</loc></url>
+  <url><loc>https://chuhai-guide.github.io/guides.html</loc></url>
+  <url><loc>https://chuhai-guide.github.io/about.html</loc></url>
+  <url><loc>https://chuhai-guide.github.io/privacy.html</loc></url>
+  <url><loc>https://chuhai-guide.github.io/guide/website-not-opening.html</loc></url>
+  <url><loc>https://chuhai-guide.github.io/guide/err-connection-timed-out.html</loc></url>
+  <url><loc>https://chuhai-guide.github.io/guide/err-connection-reset.html</loc></url>
+  <url><loc>https://chuhai-guide.github.io/guide/dns-probe-finished-nxdomain.html</loc></url>
+  <url><loc>https://chuhai-guide.github.io/guide/connection-not-private.html</loc></url>
+  <url><loc>https://chuhai-guide.github.io/guide/page-keeps-loading.html</loc></url>
+  <url><loc>https://chuhai-guide.github.io/guide/login-redirect-loop.html</loc></url>
+  <url><loc>https://chuhai-guide.github.io/guide/captcha-not-loading.html</loc></url>
+  <url><loc>https://chuhai-guide.github.io/guide/one-website-not-working.html</loc></url>
+  <url><loc>https://chuhai-guide.github.io/guide/works-in-another-browser.html</loc></url>
+  <url><loc>https://chuhai-guide.github.io/guide/overseas-website-slow.html</loc></url>
+  <url><loc>https://chuhai-guide.github.io/guide/wifi-not-working-mobile-data-works.html</loc></url>
+</urlset>
